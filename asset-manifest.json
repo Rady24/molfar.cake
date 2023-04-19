@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/molfar.cake/static/css/main.2bbeed1e.css",
+    "main.js": "/molfar.cake/static/js/main.25255d6a.js",
+    "static/media/IMG_6670.JPEG": "/molfar.cake/static/media/IMG_6670.917129dbbbaa035ed907.JPEG",
+    "static/media/1.jpg": "/molfar.cake/static/media/1.042c989b4a5bd4d730ed.jpg",
+    "static/media/1.JPEG": "/molfar.cake/static/media/1.b5d2fed5bfab194029ae.JPEG",
+    "static/media/IMG_6672.JPEG": "/molfar.cake/static/media/IMG_6672.80c4289e86be7408f211.JPEG",
+    "static/media/3.jpg": "/molfar.cake/static/media/3.62ce96d3b7fd5d0e94e2.jpg",
+    "static/media/8.JPG": "/molfar.cake/static/media/8.e66843ea9851b1b3d827.JPG",
+    "static/media/7.JPG": "/molfar.cake/static/media/7.d5dbcfc09819657c5ec1.JPG",
+    "static/media/6.jpg": "/molfar.cake/static/media/6.6c3e492101d4e1768813.jpg",
+    "static/media/10.jpg": "/molfar.cake/static/media/10.a8d23c053bcbe9d0f0e1.jpg",
+    "static/media/9.jpg": "/molfar.cake/static/media/9.6f02dcbe685b7b0e8c93.jpg",
+    "static/media/5.jpg": "/molfar.cake/static/media/5.f50dc67fa03158885b9d.jpg",
+    "static/media/4.jpg": "/molfar.cake/static/media/4.158dc567854f0e46f160.jpg",
+    "static/media/11.jpg": "/molfar.cake/static/media/11.d0f2b30f562a5596ea60.jpg",
+    "static/media/2.jpg": "/molfar.cake/static/media/2.f106833c2062a1c07b29.jpg",
+    "static/media/12.jpg": "/molfar.cake/static/media/12.9e9a32b5b6d767b08038.jpg",
+    "static/media/13.jpg": "/molfar.cake/static/media/13.cdade00daeb0460110bc.jpg",
+    "static/media/Logo.png": "/molfar.cake/static/media/Logo.75716ec70131539d39e4.png",
+    "static/media/pngwing.com.png": "/molfar.cake/static/media/pngwing.com.783edae25d330a770a3e.png",
+    "index.html": "/molfar.cake/index.html",
+    "main.2bbeed1e.css.map": "/molfar.cake/static/css/main.2bbeed1e.css.map",
+    "main.25255d6a.js.map": "/molfar.cake/static/js/main.25255d6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bbeed1e.css",
+    "static/js/main.25255d6a.js"
+  ]
+}
