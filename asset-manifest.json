@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/molfar.cake/static/css/main.2bbeed1e.css",
-    "main.js": "/molfar.cake/static/js/main.695f0de9.js",
+    "main.css": "/molfar.cake/static/css/main.d8bca9ec.css",
+    "main.js": "/molfar.cake/static/js/main.a8a8bb90.js",
     "static/media/IMG_6670.JPEG": "/molfar.cake/static/media/IMG_6670.917129dbbbaa035ed907.JPEG",
     "static/media/1.jpg": "/molfar.cake/static/media/1.042c989b4a5bd4d730ed.jpg",
     "static/media/1.JPEG": "/molfar.cake/static/media/1.b5d2fed5bfab194029ae.JPEG",
@@ -21,11 +21,11 @@
     "static/media/Logo.png": "/molfar.cake/static/media/Logo.75716ec70131539d39e4.png",
     "static/media/pngwing.com.png": "/molfar.cake/static/media/pngwing.com.783edae25d330a770a3e.png",
     "index.html": "/molfar.cake/index.html",
-    "main.2bbeed1e.css.map": "/molfar.cake/static/css/main.2bbeed1e.css.map",
-    "main.695f0de9.js.map": "/molfar.cake/static/js/main.695f0de9.js.map"
+    "main.d8bca9ec.css.map": "/molfar.cake/static/css/main.d8bca9ec.css.map",
+    "main.a8a8bb90.js.map": "/molfar.cake/static/js/main.a8a8bb90.js.map"
   },
   "entrypoints": [
-    "static/css/main.2bbeed1e.css",
-    "static/js/main.695f0de9.js"
+    "static/css/main.d8bca9ec.css",
+    "static/js/main.a8a8bb90.js"
   ]
 }
