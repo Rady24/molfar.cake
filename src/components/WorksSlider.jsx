@@ -14,6 +14,15 @@ import Photo10 from '../assets/10.jpg';
 import Photo11 from '../assets/11.jpg';
 import Photo12 from '../assets/12.jpg';
 import Photo13 from '../assets/13.jpg';
+import Photo14 from '../assets/14-min.JPG';
+import Photo15 from '../assets/15-min.JPG';
+import Photo16 from '../assets/16-min.JPG';
+import Photo17 from '../assets/17-min.JPG';
+import Photo18 from '../assets/18-min.JPG';
+import Photo19 from '../assets/19-min.JPG';
+import Photo20 from '../assets/20.jpg';
+
+import { useTranslation } from 'react-i18next';
 
 
 function WorksSlider() {
@@ -57,6 +66,27 @@ function WorksSlider() {
     {
       url: Photo13,
     },
+    {
+      url: Photo14,
+    },
+    {
+      url: Photo15,
+    },
+    {
+      url: Photo16,
+    },
+    {
+      url: Photo17,
+    },
+    {
+      url: Photo18,
+    },
+    {
+      url: Photo19,
+    },
+    {
+      url: Photo20,
+    },
   ];
 
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -94,12 +124,12 @@ function WorksSlider() {
       nextSlide();
     }
   };
-
+  const {t} = useTranslation();
   return (
     <div name='works' className='bg-[#f5f4f0] text-[#534636]'>
     <div className='md:container md:mx-auto  flex flex-col py-0 pt-[32px]  border-b-[1px] border-[#534636] pb-[64px]'>
 
-      <p className='text-center text-4xl text-bold py-[32px]'>WorkBook</p>
+      <p className='text-center text-4xl text-bold py-[32px]'>{t('workbook')}</p>
       <div
         ref={sliderRef}
         className='max-w-[400px] h-[400px] md:max-w-[700px] md:h-[700px] w-full m-auto px-4 relative group'

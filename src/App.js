@@ -5,9 +5,12 @@ import About from './components/About';
 import WorksSlider from './components/WorksSlider';
 import Contact from './components/Contact';
 import { Helmet } from 'react-helmet';
-import Photo1 from '../assets/1.jpg';
+import Photo1 from './1.jpg';
+import { useTranslation } from "react-i18next";
 
 function App() {
+
+  const {t} = useTranslation();
   return (
     <>
     <Helmet>
